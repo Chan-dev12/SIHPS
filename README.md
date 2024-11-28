@@ -167,7 +167,6 @@ By implementing these innovative ideas, you can create a dynamic and engaging Al
 * **Accessibility:** Incorporate accessibility features to accommodate users with disabilities.
 * **Regular Updates and Maintenance:** Continuously improve the platform based on user feedback and emerging technologies.
 
-By carefully considering these aspects, the Government Engineering College can develop a powerful Alumni Association platform that fosters lifelong connections, drives engagement, and supports the institution's mission.
 +------------------------+              +--------------------------+
 |                        |              |                          |
 |  Alumni Web Application | <--------->  | Alumni Mobile Application |
