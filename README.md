@@ -167,59 +167,8 @@ By implementing these innovative ideas, you can create a dynamic and engaging Al
 * **Accessibility:** Incorporate accessibility features to accommodate users with disabilities.
 * **Regular Updates and Maintenance:** Continuously improve the platform based on user feedback and emerging technologies.
 
-+------------------------+              +--------------------------+
-|                        |              |                          |
-|  Alumni Web Application | <--------->  | Alumni Mobile Application |
-|                        |              |                          |
-+------------------------+              +--------------------------+
-          |                                      |
-          |                                      |
-          v                                      v
-   +--------------------+                   +---------------------+
-   |                    |                   |                     |
-   |   Authentication   |                   |    Notification     |
-   |   & Authorization  |                   |    Service          |
-   |    Service         |                   |                     |
-   +--------------------+                   +---------------------+
-          |                                       |
-          v                                       v
-   +---------------------+                    +---------------------+
-   |                     |                    |                     |
-   |     User Profiles   |                    |    Event Management |
-   |     & Data Storage  |                    |    & RSVP Service   |
-   |                     |                    |                     |
-   +---------------------+                    +---------------------+
-          |                                       |
-          v                                       v
-   +---------------------+                    +---------------------+
-   |                     |                    |                     |
-   |   Job Posting       |                    |    Donation Portal  |
-   |    & Networking     |                    |      Service        |
-   |     Service         |                    |                     |
-   +---------------------+                    +---------------------+
-          |                                       |
-          v                                       v
-   +---------------------+                    +---------------------+
-   |                     |                    |                     |
-   |   Success Stories   |                    |     Alumni Directory|
-   |     & Mentorship    |                    |        Service       |
-   |     Service         |                    |                     |
-   +---------------------+                    +---------------------+
-          |                                       |
-          v                                       v
-   +---------------------+                    +---------------------+
-   |                     |                    |                     |
-   |  Feedback & Surveys |                    |    Analytics &      |
-   |       Service       |                    |   Reporting Service |
-   |                     |                    |                     |
-   +---------------------+                    +---------------------+
-          |                                       |
-          v                                       v
-    +---------------------+               +------------------------+
-    |   External APIs     |               |    Database            |
-    |    (Payment, etc.)  |               |    (SQL/NoSQL)         |
-    +---------------------+               +------------------------+
 
+ | Alumni Web Application | <---------> | Alumni Mobile Application |  <---------> | Authentication & Authorization Service |  <--------->|Notification Service |  <--------->|User Profiles & Data Storage |  <--------->|Event Management & RSVP Service | <---------> |Job Posting & Networking Service | <---------> |Donation Portal Service| <---------> |Success Stories & Mentorship Service| <---------> |Alumni Directory Service| <---------> |Feedback & Surveys Service| <---------> |Analytics & Reporting Service| <---------> |External APIs (Payment, etc.)| <---------> |Database (SQL/NoSQL) |
 ![A_modern_web_and_mobile_application_interface_show](https://github.com/user-attachments/assets/4f0dd2b0-10cd-4155-9d66-bfe19736755c)
 ## Use Cases
 **Here are some specific use cases for an Alumni Association platform:**
